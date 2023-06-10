@@ -1,8 +1,11 @@
 # Sanware Technologies
 
 Sanware is not a definable group or organisation (ironic, right?)
-It's an informal label which is placed upon projects initially created, collaborated with or modified by BillCipher57.
+It's an informal label which is placed upon projects initially created, collaborated with or modified by the listed contributors.
 
+- BillCipher57
+- ZhiftyDK
+- EthanBarr
 
 # Notable Projects
 
