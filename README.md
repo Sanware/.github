@@ -8,4 +8,3 @@ It's an informal label which is placed upon projects initially created, collabor
 
 - Self-learning offline Carter interface
 - Various pre-built AI assistant chatbots - 'Lily' - designed for MacOS, with an upgraded universal version in the works.
-- Atlas, the AI, which uses Lily's MK III code.
